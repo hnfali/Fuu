@@ -1,0 +1,12 @@
+nbproject
+.idea
+.buildpath
+.project
+.settings/
+tmp/
+var/
+DoctrineORM/
+Symfony/
+*.*~
+*.swp
+apps/
